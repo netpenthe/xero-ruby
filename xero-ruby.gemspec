@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = ">= 1.9"
 
   s.add_runtime_dependency 'faraday', '~> 0.14', '>= 0.14.0'
-  s.add_runtime_dependency 'json', '~> 1.8.6', '>= 2.1.0'
+  s.add_runtime_dependency 'json', '~> 1.8.6', '>= 1.8.6'
 
   s.add_development_dependency 'rspec', '~> 3.6', '>= 3.6.0'
 
